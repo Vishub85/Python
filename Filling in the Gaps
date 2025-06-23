@@ -4,8 +4,8 @@ single folder and locates any gaps in the numbering (such as if there is a spam0
 rename all the later files to close this gap. As an added challenge, write another program that can insert gaps into numbered files so that a 
 new file can be added.
 '''
-print("NAME: KATIKAM SRAVAN KUMAR REDDY")
-print("USN:1AY24AI054")
+print("NAME: Bizzukallu Viswanath Swamy")
+print("USN:1AY24AI021")
 print("SECTION:M")
 import os
 import re
